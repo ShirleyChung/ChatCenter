@@ -1,0 +1,6 @@
+framework module LibBluetoothMac {
+  umbrella header "LibBluetoothMac.h"
+
+  export *
+  module * { export * }
+}
